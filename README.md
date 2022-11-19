@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=VisualStudio&logoColor=white)
 ![](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white)
 ![](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white) 
-![](https://img.shields.io/badge/Altium-A5915F?style=flat&logo=AltiumDesigner&logoColor=white) 
+![](https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat&logo=AltiumDesigner&logoColor=white) 
 
 ![](https://img.shields.io/badge/Git-181717?style=flat&logo=Git&logoColor=white) 
 ![](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
