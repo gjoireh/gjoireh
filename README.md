@@ -8,6 +8,7 @@
 ![](https://img.shields.io/badge/Django-092E20?style=flat&logo=Python&logoColor=white)  
 
 ![](https://img.shields.io/badge/STM32-03234B?style=flat&logo=STMicroelectronics&logoColor=white)
+![](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=Espressif&logoColor=white)
 ![](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 
 
